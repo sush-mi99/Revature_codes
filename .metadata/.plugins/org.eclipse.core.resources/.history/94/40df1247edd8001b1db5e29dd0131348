@@ -1,0 +1,11 @@
+package operators;
+
+public class ArthematicOperators {
+	
+public static void main(String[] args) {
+		
+		Operators o = new Operators(5,6);
+		
+	}
+
+}
