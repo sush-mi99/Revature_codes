@@ -8,7 +8,7 @@ public class Arthematic {
 		
 		RelationalOperators r = new RelationalOperators(6,4);
 		
-		IdOperators i = new IdOperators(2,9);
+		IdOperators i = new IdOperators(2,5);
 		
 
 	}
