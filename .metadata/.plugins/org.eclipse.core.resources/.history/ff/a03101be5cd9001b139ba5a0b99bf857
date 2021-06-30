@@ -10,7 +10,7 @@ public class Arthematic {
 		
 		IdOperators i = new IdOperators(2,9);
 		
-		AssignOperators o = new AssignOperators(3);
+		AssignOperators o = new AssignOperators(6);
 		
 
 	}

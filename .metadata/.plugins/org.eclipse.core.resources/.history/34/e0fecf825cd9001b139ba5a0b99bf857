@@ -1,0 +1,29 @@
+package frst;
+
+public class AssignOperators {
+	
+	private int x;
+	public AssignOperators(int x) 
+	{
+		this.x=x; 
+		int var;
+	
+		switch(x) {
+		
+		case 1:
+			var = x;
+		    System.out.println("var using =: " + var);
+		    break;
+		case 2:
+			var += x;
+		    System.out.println("var using +=: " + var);
+		    break;
+		case 3:
+			var *= x;
+		    System.out.println("var using *=: " + var);
+		    break;
+		}
+
+	}
+
+}
