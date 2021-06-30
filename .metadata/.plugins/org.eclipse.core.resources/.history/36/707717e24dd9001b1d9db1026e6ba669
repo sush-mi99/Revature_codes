@@ -6,7 +6,7 @@ public class Arthematic {
 		
 		ArthematicOperations a= new ArthematicOperations(9,7);
 		
-		RelationalOperators r= new RelationalOperators(6,4);
+		RelationalOperators r= new RelationalOperators(9,4);
 		
 
 	}

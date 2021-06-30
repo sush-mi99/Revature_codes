@@ -1,0 +1,13 @@
+package frst;
+
+public class Arthematic {
+
+	public static void main(String[] args) {
+	
+		
+		RelationalOperators r= new RelationalOperators(7,4);
+		
+
+	}
+
+}

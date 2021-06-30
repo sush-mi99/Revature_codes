@@ -1,0 +1,31 @@
+package frst;
+
+public class RelationalOperators {
+	private int x;
+	private int y;
+	
+	public RelationalOperators(int x,int y) {
+		this.x=x; 
+		this.y=y;
+	// value of a and b
+    System.out.println("x is " + x + " and y is " + y);
+
+    // == operator
+    System.out.println(x == y);  // false
+
+    // != operator
+    System.out.println(x != y);  // true
+
+    // > operator
+    System.out.println(x > y);  // false
+
+    // < operator
+    System.out.println(x < y);  // true
+
+    // >= operator
+    System.out.println(x >= y);  // false
+
+    // <= operator
+    System.out.println(x <= y);  // true
+  }
+}
