@@ -47,6 +47,11 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\susmi\OneDrive\Desktop\Revature Training\java_msa_India_batch\Week-1\inheritance_task"/>
+			<item value="C:\Users\susmi\OneDrive\Desktop\Revature Training\java_msa_India_batch\Week-1\inheritance_demo"/>
+			<item value="C:\Users\susmi\OneDrive\Desktop\inheritance_task"/>
+			<item value="C:\Users\susmi\OneDrive\Desktop\My Repositry\inheritance_task"/>
+			<item value="C:\Users\susmi\OneDrive\Desktop\My Repositry\inheritance_demo"/>
 			<item value="C:\Users\susmi\OneDrive\Desktop\Revature Training\java_msa_India_batch\java_msa_India_batch\Week-1\constructor_demo"/>
 			<item value="C:\Users\susmi\OneDrive\Desktop\Demo"/>
 		</list>

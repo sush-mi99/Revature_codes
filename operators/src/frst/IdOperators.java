@@ -12,9 +12,9 @@ public class IdOperators {
 		 while(x<=10 && y<=10){  
 			 
 		        System.out.println(x);
-		        System.out.println(y);
+		    x++;
 		        
-		    x++;  
+		        System.out.println(y);
 		    y--;
 		    
 		    }  
