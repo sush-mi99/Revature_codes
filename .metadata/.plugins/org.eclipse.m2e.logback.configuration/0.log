@@ -543,3 +543,5 @@ org.apache.maven.project.ProjectBuildingException: Some problems were encountere
 2021-07-06 12:59:26,663 [Worker-42: Launching MyFirstMavenApp (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package -Dstyle.color=always
 2021-07-06 12:59:54,985 [Worker-43: Launching MyFirstMavenApp (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\susmi\OneDrive\Desktop\My Repositry\MyFirstMavenApp
 2021-07-06 12:59:54,985 [Worker-43: Launching MyFirstMavenApp (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package -Dstyle.color=always
+2021-07-06 17:00:22,591 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-07-06 17:05:44,504 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
