@@ -19,12 +19,12 @@ public class ProductMain {
 		productList.add(new Product(600, "lenovo", "charger", 122.22, 4.3f));
 		productList.add(new Product(700, "hp", "laptop", 42999.22, 3.3f));
 
-		System.out.println("Printing all the buses");
+		System.out.println("Printing all the productss");
 		printProductList(productList);
 		
 		Collections.sort(productList);
 		
-		System.out.println("\n\nPrinting all the buses sorted based on BusId(descending)");
+		System.out.println("\n\nPrinting all the buses sorted based on ProductId(descending)");
 		printProductList(productList);
 		
 		Collections.sort(productList,new ProductNameComparator());
@@ -56,15 +56,7 @@ public class ProductMain {
 	}
 	
 	
-	
-	private static void printProductList(List<Product> productList) {
-		// TODO Auto-generated method stub
-		
-	}
-
-
-
-	public static void printBusList(List<Product> productList) {
+	public static void printProductList(List<Product> productList) {
 		Iterator<Product> i=productList.iterator();
 		while(i.hasNext()) {
 			System.out.println(i.next());
